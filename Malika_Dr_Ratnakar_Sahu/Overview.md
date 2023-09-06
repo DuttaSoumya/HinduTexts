@@ -1,6 +1,10 @@
+# &#2384;
+
+All content on this site are licensed under the terms outlined in the [License](/License) file.
+
 # **Malika** by Dr. Ratnakar Sahu
 
-Dr. Ratnakar Sahu, an eminent professor and scholar of Odiya literature has paintakingly compiled this book from verses spoken and written into manuscripts by the great saints of Orissa, primarily the [Panchasakhas](https://historyofodisha.in/pancha-sakhas-of-medieval-odisha/). The verses contain a vast amount of information about the current times of the authors, the cultures and practices of then and the coming future. Malika is a string of such verses and it is said to consist of a very large number of manuscripts, some of which Dr. Sahu has brought to our attention in this book. As such the Malika is a historical as well as prophetical account of events and it deals with the decadent practices of the [Kaliyuga](https://en.wikipedia.org/wiki/Kali_Yuga) but also provides hope for the future for those who have fixed their minds in righteousness and genuine spirituality.
+Dr. Ratnakar Sahu, an eminent professor and scholar of Odiya literature has paintakingly compiled this book from verses spoken and written into manuscripts by the great saints of Orissa, primarily the [Panchasakhas](https://historyofodisha.in/pancha-sakhas-of-medieval-odisha/). The verses contain a vast amount of information about the current times of the authors, the cultures and practices of then and the coming future. Malika is a string of such verses and it is said to consist of a very large number of manuscripts, some of which Dr. Sahu has brought to our attention in this book. As such the Malika is a historical as well as a prophetical account of events and it deals with the decadent practices of the [Kaliyuga](https://en.wikipedia.org/wiki/Kali_Yuga) but also provides hope for the future for those who have fixed their minds in righteousness and genuine spirituality.
 
 The main source for the text of this book was taken from the PDF available at [NijuktiOdisha.in](https://nijuktiodisha.in/odia-malika-bachana-book) or at [Odiatopics.in](https://www.odiatopics.in/malika-bachana-book-pdf/). Each page of the book has then been processed and translated separately and can be read as per the table of contents below.
 
