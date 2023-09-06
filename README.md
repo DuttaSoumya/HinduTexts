@@ -20,4 +20,4 @@ Having said that, contributions from the wider community to correct the purport 
 We hereby wish our readers the very best in gathering the knowledge imparted by these texts and hope that they benefit from this endeavour!
 
 ## Manuscripts
-1. [Malika by Dr. Ratnakar Sahu](/Malika_Dr_Ratnakar_Sahu#readme)
+1. [Malika by Dr. Ratnakar Sahu](/Malika_Dr_Ratnakar_Sahu/Overview.md)
