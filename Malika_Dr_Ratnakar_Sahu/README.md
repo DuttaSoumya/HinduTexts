@@ -5,105 +5,105 @@ Dr. Ratnakar Sahu, an eminent professor and scholar of Odiya literature has pain
 The main source for the text of this book was taken from the PDF available at [NijuktiOdisha.in](https://nijuktiodisha.in/odia-malika-bachana-book) or at [Odiatopics.in](https://www.odiatopics.in/malika-bachana-book-pdf/). Each page of the book has then been processed and translated separately and can be read as per the table of contents below.
 
 ## Table of contents
-[Page 001](Page001.md)<br/>
-[Page 002](Page002.md)<br/>
-[Page 003](Page003.md)<br/>
-[Page 004](Page004.md)<br/>
-[Page 005](Page005.md)<br/>
-[Page 006](Page006.md)<br/>
-[Page 007](Page007.md)<br/>
-[Page 008](Page008.md)<br/>
-[Page 009](Page009.md)<br/>
-[Page 010](Page010.md)<br/>
-[Page 011](Page011.md)<br/>
-[Page 012](Page012.md)<br/>
-[Page 013](Page013.md)<br/>
-[Page 014](Page014.md)<br/>
-[Page 015](Page015.md)<br/>
-[Page 016](Page016.md)<br/>
-[Page 017](Page017.md)<br/>
-[Page 018](Page018.md)<br/>
-[Page 019](Page019.md)<br/>
-[Page 020](Page020.md)<br/>
-[Page 021](Page021.md)<br/>
-[Page 022](Page022.md)<br/>
-[Page 023](Page023.md)<br/>
-[Page 024](Page024.md)<br/>
-[Page 025](Page025.md)<br/>
-[Page 026](Page026.md)<br/>
-[Page 027](Page027.md)<br/>
-[Page 028](Page028.md)<br/>
-[Page 029](Page029.md)<br/>
-[Page 030](Page030.md)<br/>
-[Page 031](Page031.md)<br/>
-[Page 032](Page032.md)<br/>
-[Page 033](Page033.md)<br/>
-[Page 034](Page034.md)<br/>
-[Page 035](Page035.md)<br/>
-[Page 036](Page036.md)<br/>
-[Page 037](Page037.md)<br/>
-[Page 038](Page038.md)<br/>
-[Page 039](Page039.md)<br/>
-[Page 040](Page040.md)<br/>
-[Page 041](Page041.md)<br/>
-[Page 042](Page042.md)<br/>
-[Page 043](Page043.md)<br/>
-[Page 044](Page044.md)<br/>
-[Page 045](Page045.md)<br/>
-[Page 046](Page046.md)<br/>
-[Page 047](Page047.md)<br/>
-[Page 048](Page048.md)<br/>
-[Page 049](Page049.md)<br/>
-[Page 050](Page050.md)<br/>
-[Page 051](Page051.md)<br/>
-[Page 052](Page052.md)<br/>
-[Page 053](Page053.md)<br/>
-[Page 054](Page054.md)<br/>
-[Page 055](Page055.md)<br/>
-[Page 056](Page056.md)<br/>
-[Page 057](Page057.md)<br/>
-[Page 058](Page058.md)<br/>
-[Page 059](Page059.md)<br/>
-[Page 060](Page060.md)<br/>
-[Page 061](Page061.md)<br/>
-[Page 062](Page062.md)<br/>
-[Page 063](Page063.md)<br/>
-[Page 064](Page064.md)<br/>
-[Page 065](Page065.md)<br/>
-[Page 066](Page066.md)<br/>
-[Page 067](Page067.md)<br/>
-[Page 068](Page068.md)<br/>
-[Page 069](Page069.md)<br/>
-[Page 070](Page070.md)<br/>
-[Page 071](Page071.md)<br/>
-[Page 072](Page072.md)<br/>
-[Page 073](Page073.md)<br/>
-[Page 074](Page074.md)<br/>
-[Page 075](Page075.md)<br/>
-[Page 076](Page076.md)<br/>
-[Page 077](Page077.md)<br/>
-[Page 078](Page078.md)<br/>
-[Page 079](Page079.md)<br/>
-[Page 080](Page080.md)<br/>
-[Page 081](Page081.md)<br/>
-[Page 082](Page082.md)<br/>
-[Page 083](Page083.md)<br/>
-[Page 084](Page084.md)<br/>
-[Page 085](Page085.md)<br/>
-[Page 086](Page086.md)<br/>
-[Page 087](Page087.md)<br/>
-[Page 088](Page088.md)<br/>
-[Page 089](Page089.md)<br/>
-[Page 090](Page090.md)<br/>
-[Page 091](Page091.md)<br/>
-[Page 092](Page092.md)<br/>
-[Page 093](Page093.md)<br/>
-[Page 094](Page094.md)<br/>
-[Page 095](Page095.md)<br/>
-[Page 096](Page096.md)<br/>
-[Page 097](Page097.md)<br/>
-[Page 098](Page098.md)<br/>
-[Page 099](Page099.md)<br/>
+[Page 1](Page001.md)<br/>
+[Page 2](Page002.md)<br/>
+[Page 3](Page003.md)<br/>
+[Page 4](Page004.md)<br/>
+[Page 5](Page005.md)<br/>
+[Page 6](Page006.md)<br/>
+[Page 7](Page007.md)<br/>
+[Page 8](Page008.md)<br/>
+[Page 9](Page009.md)<br/>
+[Page 10](Page010.md)<br/>
+[Page 11](Page011.md)<br/>
+[Page 12](Page012.md)<br/>
+[Page 13](Page013.md)<br/>
+[Page 14](Page014.md)<br/>
+[Page 15](Page015.md)<br/>
+[Page 16](Page016.md)<br/>
+[Page 17](Page017.md)<br/>
+[Page 18](Page018.md)<br/>
+[Page 19](Page019.md)<br/>
+[Page 20](Page020.md)<br/>
+[Page 21](Page021.md)<br/>
+[Page 22](Page022.md)<br/>
+[Page 23](Page023.md)<br/>
+[Page 24](Page024.md)<br/>
+[Page 25](Page025.md)<br/>
+[Page 26](Page026.md)<br/>
+[Page 27](Page027.md)<br/>
+[Page 28](Page028.md)<br/>
+[Page 29](Page029.md)<br/>
+[Page 30](Page030.md)<br/>
+[Page 31](Page031.md)<br/>
+[Page 32](Page032.md)<br/>
+[Page 33](Page033.md)<br/>
+[Page 34](Page034.md)<br/>
+[Page 35](Page035.md)<br/>
+[Page 36](Page036.md)<br/>
+[Page 37](Page037.md)<br/>
+[Page 38](Page038.md)<br/>
+[Page 39](Page039.md)<br/>
+[Page 40](Page040.md)<br/>
+[Page 41](Page041.md)<br/>
+[Page 42](Page042.md)<br/>
+[Page 43](Page043.md)<br/>
+[Page 44](Page044.md)<br/>
+[Page 45](Page045.md)<br/>
+[Page 46](Page046.md)<br/>
+[Page 47](Page047.md)<br/>
+[Page 48](Page048.md)<br/>
+[Page 49](Page049.md)<br/>
+[Page 50](Page050.md)<br/>
+[Page 51](Page051.md)<br/>
+[Page 52](Page052.md)<br/>
+[Page 53](Page053.md)<br/>
+[Page 54](Page054.md)<br/>
+[Page 55](Page055.md)<br/>
+[Page 56](Page056.md)<br/>
+[Page 57](Page057.md)<br/>
+[Page 58](Page058.md)<br/>
+[Page 59](Page059.md)<br/>
+[Page 60](Page060.md)<br/>
+[Page 61](Page061.md)<br/>
+[Page 62](Page062.md)<br/>
+[Page 63](Page063.md)<br/>
+[Page 64](Page064.md)<br/>
+[Page 65](Page065.md)<br/>
+[Page 66](Page066.md)<br/>
+[Page 67](Page067.md)<br/>
+[Page 68](Page068.md)<br/>
+[Page 69](Page069.md)<br/>
+[Page 70](Page070.md)<br/>
+[Page 71](Page071.md)<br/>
+[Page 72](Page072.md)<br/>
+[Page 73](Page073.md)<br/>
+[Page 74](Page074.md)<br/>
+[Page 75](Page075.md)<br/>
+[Page 76](Page076.md)<br/>
+[Page 77](Page077.md)<br/>
+[Page 78](Page078.md)<br/>
+[Page 79](Page079.md)<br/>
+[Page 80](Page080.md)<br/>
+[Page 81](Page081.md)<br/>
+[Page 82](Page082.md)<br/>
+[Page 83](Page083.md)<br/>
+[Page 84](Page084.md)<br/>
+[Page 85](Page085.md)<br/>
+[Page 86](Page086.md)<br/>
+[Page 87](Page087.md)<br/>
+[Page 88](Page088.md)<br/>
+[Page 89](Page089.md)<br/>
+[Page 90](Page090.md)<br/>
+[Page 91](Page091.md)<br/>
+[Page 92](Page092.md)<br/>
+[Page 93](Page093.md)<br/>
+[Page 94](Page094.md)<br/>
+[Page 95](Page095.md)<br/>
+[Page 96](Page096.md)<br/>
+[Page 97](Page097.md)<br/>
+[Page 98](Page098.md)<br/>
+[Page 99](Page099.md)<br/>
 [Page 100](Page100.md)<br/>
 [Page 101](Page101.md)<br/>
 [Page 102](Page102.md)<br/>
@@ -144,19 +144,20 @@ The main source for the text of this book was taken from the PDF available at [N
 [Page 137](Page137.md)<br/>
 [Page 138](Page138.md)<br/>
 
+
 ## Observations
 From the text the following observations have been gleaned, 
-- [Page 074](Page074.md): **_Pisces and Saturn shall be residing in the Mukunda year. India will be shocked ?_** [The heir to the current king Divyasinh Deb will be called Mukunda Dev. [Reference](https://en.wikipedia.org/wiki/Puri_Estate#:~:text=The%20heir%20to%20the%20current,name%20of%20Mukunda%20Deva%20IV.) Does this mean that the ruler changes during this time?]
-- [Page 074](Page074.md): **_Madhu (1), 6th day on a thursday, trouble shall be brewing among the devotees. Know that period is 18th, some devotees will be troubled._** [Saturn enters Pisces next in March 2023 and stays there til 3rd June 2027. Probable dates is the 3rd April 2025 is the 6th day of Sukla paksha and a Thursday.]
-- [Page 076](Page076.md): **_As the 23rd goes and again on 24th, devotees will get some proof. The earth will see meteor showers._**
-- [Page 076](Page076.md): **_Earth will cry out. ? Indra will rain blood._**
-- [Page 076](Page076.md): **_The monsters will come as disease and bite people in secret. and blood vomit? Each house will get that disease_**
-- [Page 079](Page079.md): **_Indra will provide with little rain in the country, in the month of Sravan (July- August) there will be almost no rain (2). The wells ?  and lakes wil dry up and water will not flow in any river._**
-- [Page 079](Page079.md): **_In the month of Aswin (September - October) there is a lot of flooding that will break houses and "Aals" (the boundaries of farms). Miserable days will follow with fogs, people will die of ?_**
-- [Page 081](Page081.md): **_Piety or beauty shall leave all households, that day Ananta (the lord) shall definitely return. As a signal listen carefully, the Nakshatra Lanjya (4) will break into pieces and fall._**
-- [Page 081](Page081.md): **_Rains will fall as stones (hail) and blood, suddenly winds shall start blowing. The ocean ? will rise from the east and cover the rivers, canals in sand._**
-- [Page 096](Page096.md): **_The river Ganges will hide in ? The hiding river will be a holy site at Manikanthika (2). Coming to Orissa, there will be suppressed from outside, ? and cause famine_** [(Manikarnika ghat, near Patna?)]
-- [Page 096](Page096.md): **_Jagannath will move to Chatiya village at Amarabati near Cuttack as the forces stay at Jagatsinhapur._**
+- [Page 74](Page074.md): **_Pisces and Saturn shall be residing in the Mukunda year. India will be shocked ?_** [The heir to the current king Divyasinh Deb will be called Mukunda Dev. [Reference](https://en.wikipedia.org/wiki/Puri_Estate#:~:text=The%20heir%20to%20the%20current,name%20of%20Mukunda%20Deva%20IV.) Does this mean that the ruler changes during this time?]
+- [Page 74](Page074.md): **_Madhu (1), 6th day on a thursday, trouble shall be brewing among the devotees. Know that period is 18th, some devotees will be troubled._** [Saturn enters Pisces next in March 2023 and stays there til 3rd June 2027. Probable dates is the 3rd April 2025 is the 6th day of Sukla paksha and a Thursday.]
+- [Page 76](Page076.md): **_As the 23rd goes and again on 24th, devotees will get some proof. The earth will see meteor showers._**
+- [Page 76](Page076.md): **_Earth will cry out. ? Indra will rain blood._**
+- [Page 76](Page076.md): **_The monsters will come as disease and bite people in secret. and blood vomit? Each house will get that disease_**
+- [Page 79](Page079.md): **_Indra will provide with little rain in the country, in the month of Sravan (July- August) there will be almost no rain (2). The wells ?  and lakes wil dry up and water will not flow in any river._**
+- [Page 79](Page079.md): **_In the month of Aswin (September - October) there is a lot of flooding that will break houses and "Aals" (the boundaries of farms). Miserable days will follow with fogs, people will die of ?_**
+- [Page 81](Page081.md): **_Piety or beauty shall leave all households, that day Ananta (the lord) shall definitely return. As a signal listen carefully, the Nakshatra Lanjya (4) will break into pieces and fall._**
+- [Page 81](Page081.md): **_Rains will fall as stones (hail) and blood, suddenly winds shall start blowing. The ocean ? will rise from the east and cover the rivers, canals in sand._**
+- [Page 96](Page096.md): **_The river Ganges will hide in ? The hiding river will be a holy site at Manikanthika (2). Coming to Orissa, there will be suppressed from outside, ? and cause famine_** [(Manikarnika ghat, near Patna?)]
+- [Page 96](Page096.md): **_Jagannath will move to Chatiya village at Amarabati near Cuttack as the forces stay at Jagatsinhapur._**
 - [Page 101](Page101.md): **_In the 14th year, month of Falgun (8) will his sword be revealed. He will become the minister (9) at the court ?_**
 - [Page 108](Page108.md): **_Who listens for his own benefit? On that time, there will be war in India. ? That will last 13 months._**
 - [Page 108](Page108.md): **_There will be an assembly of 16 groups of devotees, the Panchasakhas will be there also. On the Thursday, 8th day of Shukla paksha in the month of Vaisakh that day Kaliyuga will come to an end._**
