@@ -3,7 +3,7 @@
 # IndicTexts
 Digitized version of old texts on scriptures and mythology of Hinduism
 
-All content on this site are licensed under the terms outlined in the [License](/License) file.
+All content on this site are licensed under the terms outlined in the [License](License) file.
 
 ## Introduction
 The richness of India's customs and traditions stems from the immortal words of its ancient sages. Since the days of old, many literary works have been propapagated simply by listening to oral recitations. Although several texts do exist, there are volumes that have never been translated and are therefore not available in the public domain. The objective of creating this repository is to make such texts readily available in a simple and readable format so that everyone can banefit from the wisdom contained in the following ancient compositions. 

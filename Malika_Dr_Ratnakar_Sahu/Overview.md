@@ -1,6 +1,6 @@
 # &#2384;
 
-All content on this site are licensed under the terms outlined in the [License](/License) file.
+All content on this site are licensed under the terms outlined in the [License](../License) file.
 
 # **Malika** by Dr. Ratnakar Sahu
 
