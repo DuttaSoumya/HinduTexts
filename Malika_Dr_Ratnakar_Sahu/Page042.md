@@ -40,7 +40,7 @@
 <!-- Section [3], [4],  -->
 <!-- Section [5],  -->
 <!-- Placeholder for translation. Place text between the underscores(_) and with no leading or trailing spaces. -->
-**_From Purushottam Deb the 19th king will not be succeeded by a new king, there will be many in the dynasty. The sea will come on the 15th Anka and salt shall arrive from the east._** [As per [Wikipedia](https://en.wikipedia.org/wiki/Dibyasingha_Deba), 2022 corresponds to 65 Anka and 2027 shall correspond to the 70th Anka.]
+**_Counting from Purushottam Deb the 19th king will not be succeeded by a new king, there will be many in the dynasty. The sea will come on the 15th to 17th Anka and salt shall arrive from the east._** [As per [Wikipedia](https://en.wikipedia.org/wiki/Dibyasingha_Deba), 2022 corresponds to 65 Anka and 2027 shall correspond to the 70th Anka.]
 
 
 ## 

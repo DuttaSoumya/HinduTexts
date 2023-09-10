@@ -151,6 +151,8 @@ The main source for the text of this book was taken from the PDF available at [N
 
 ## Observations
 From the text the following observations have been gleaned, 
+- [Page 41](Page041.md): **_Listen to my words, in the 19th anka, meteror showers in 3 cities (Tripura?), the world will be wandering. In the 22nd Anka, blood shall flow in Medina/ Medinipur? (1)_**
+- [Page 42](Page042.md): **_Counting from Purushottam Deb the 19th king will not be succeeded by a new king, there will be many in the dynasty. The sea will come on the 15th to 17th Anka and salt shall arrive from the east._** [As per [Wikipedia](https://en.wikipedia.org/wiki/Dibyasingha_Deba), 2022 corresponds to 65 Anka and 2027 shall correspond to the 70th Anka.]
 - [Page 74](Page074.md): **_Pisces and Saturn shall be residing in the Mukunda year. India will be shocked ?_** [The heir to the current king Divyasinh Deb will be called Mukunda Dev. [Reference](https://en.wikipedia.org/wiki/Puri_Estate#:~:text=The%20heir%20to%20the%20current,name%20of%20Mukunda%20Deva%20IV.) Does this mean that the ruler changes during this time?]
 - [Page 74](Page074.md): **_Madhu (1), 6th day on a thursday, trouble shall be brewing among the devotees. Know that period is 18th, some devotees will be troubled._** [Saturn enters Pisces next in March 2023 and stays there til 3rd June 2027. Probable dates is the 3rd April 2025 is the 6th day of Sukla paksha and a Thursday.]
 - [Page 76](Page076.md): **_As the 23rd goes and again on 24th, devotees will get some proof. The earth will see meteor showers._**
@@ -168,7 +170,7 @@ From the text the following observations have been gleaned,
 - [Page 108](Page108.md): **_That day the meteor will fall, 160 over Chandrabhaga ? There will be a real miracle, Wind will blow at ?_**
 
 
-## References
+## More sources
 - [An Indian Saint on the coming destruction](https://www.currenthealthscenario.com/2015/05/an-indian-saint-on-coming-destruction.html)
 - [Earth’s magnetic poles could start to flip. What happens then?](https://ec.europa.eu/research-and-innovation/en/horizon-magazine/earths-magnetic-poles-could-start-flip-what-happens-then)
 - [Spine Chilling Predictions About 2022 & Beyond from 550 Years old Books of Orissa- Bhavishya Malika](https://www.linkedin.com/pulse/550-years-old-predictions-current-times-from-orissas-saint-paladiya/)

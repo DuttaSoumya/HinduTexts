@@ -94,7 +94,7 @@
 | 28 | **ହେତୁ ରଖୁଥ୍ବ ବ୍ରଜକୁମର** | हेतु रखुथ्ब ब्रजकुमर | Because of Rakithva Brajkumar | <!-- Block 3 -->
 | 29 | **ସେକାଳେ ମୁହିଂ ତେଜି କଳେବର** | सेकाले मुहिं तेजि कलेबर | At that time Muhing Teji Kalbar | <!-- Block 14 -->
 
-**_Pisces and Saturn shall be residing in the Mukunda year. India will be shocked ?_** [The heir to the current king Divyasinh Deb will be called Mukunda Dev. [Reference](https://en.wikipedia.org/wiki/Puri_Estate#:~:text=The%20heir%20to%20the%20current,name%20of%20Mukunda%20Deva%20IV.) Does this mean that the ruler changes during this time?]
+**_Pisces and Saturn shall be residing in the Mukunda year. India will be shocked ?_** [The heir to the current king Divyasinh Deb will be called Mukunda Dev. [Reference](https://en.wikipedia.org/wiki/Puri_Estate#:~:text=The%20heir%20to%20the%20current,name%20of%20Mukunda%20Deva%20IV.) Does this mean that the ruler changes during this time but other verses mention that the current ruler is the last one (see [Page 42](Page042.md))?]
 
 ## 
 | | | <sub>देवनागरी transliteration</sub> | <sub>AI generated translation</sub> |
